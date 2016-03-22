@@ -8,3 +8,11 @@ The zip codes used here are from google.
 
 Read nat_parks.ipynb if you'd like to know more about how I got all the information together and formatted it.
 If you just want to look at the graphs, check out Plotting the Parks.ipynb
+
+Setting up this project: 
+
+Download all the files
+Make sure you have Anaconda
+Run nat_parks.ipynb
+Fill in missing zip codes in the Master file, name it Ultimate_Master.csv
+Run Plotting the Parks.ipynb
